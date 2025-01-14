@@ -1,0 +1,4 @@
+- pipeline: raowouxqdo
+  refs:
+  - refs/heads/master
+  on: CLICK
